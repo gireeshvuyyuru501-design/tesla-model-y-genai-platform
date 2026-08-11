@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+openai
+langchain
+langchain-openai
+langgraph
+streamlit
+requests

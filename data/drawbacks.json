@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "controls",
+    "title": "Touchscreen Dependence",
+    "text": "Many vehicle functions rely heavily on the center touchscreen.",
+    "severity": "medium",
+    "evidence": "review"
+  },
+  {
+    "id": 2,
+    "category": "ride",
+    "title": "Firm Ride",
+    "text": "Some reviewers still describe the ride as firm.",
+    "severity": "medium",
+    "evidence": "review"
+  },
+  {
+    "id": 3,
+    "category": "infotainment",
+    "title": "No Native CarPlay",
+    "text": "Tesla vehicles do not provide native Apple CarPlay or Android Auto integration.",
+    "severity": "low",
+    "evidence": "review"
+  },
+  {
+    "id": 4,
+    "category": "visibility",
+    "title": "Rear Visibility",
+    "text": "Rearward visibility may feel restricted.",
+    "severity": "medium",
+    "evidence": "review"
+  },
+  {
+    "id": 5,
+    "category": "quality",
+    "title": "Interior Rattle Reports",
+    "text": "Some owners report occasional rattles or trim noises.",
+    "severity": "low",
+    "evidence": "owner-anecdote"
+  },
+  {
+    "id": 6,
+    "category": "paint",
+    "title": "Paint Chip Reports",
+    "text": "Some owners report paint chips on exposed exterior surfaces.",
+    "severity": "low",
+    "evidence": "owner-anecdote"
+  },
+  {
+    "id": 7,
+    "category": "driver-assistance",
+    "title": "FSD Requires Supervision",
+    "text": "Full Self-Driving Supervised requires an attentive driver and does not make the vehicle autonomous.",
+    "severity": "high",
+    "evidence": "official"
+  },
+  {
+    "id": 8,
+    "category": "ergonomics",
+    "title": "Flush Door Handles",
+    "text": "Flush exterior door handles can require some adaptation.",
+    "severity": "low",
+    "evidence": "review"
+  },
+  {
+    "id": 9,
+    "category": "wipers",
+    "title": "Automatic Wiper Reports",
+    "text": "Some owners report inconsistent automatic windshield-wiper behavior.",
+    "severity": "low",
+    "evidence": "owner-anecdote"
+  },
+  {
+    "id": 10,
+    "category": "charging",
+    "title": "Charging Planning",
+    "text": "Long-distance EV travel may require more charging planning than gasoline vehicle travel.",
+    "severity": "medium",
+    "evidence": "general"
+  }
+]
